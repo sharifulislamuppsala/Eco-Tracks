@@ -1,5 +1,7 @@
 # Eco-Tracks
+
 ![1](https://github.com/sharifulislamuppsala/Eco_Track/assets/162694734/dd0c9049-59f2-40e3-8b4d-bd04b283f136)
+
 ## Background
 
 EcoTrack addresses the urgent need for individual action against climate change by enabling users to make more environmentally friendly daily decisions. The app targets common problems like excessive carbon emissions from transportation, energy overconsumption, and waste generation, aiming to foster a culture of sustainability.
