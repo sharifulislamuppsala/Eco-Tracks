@@ -1,3 +1,7 @@
+## Summary
+
+EcoTrack is an AI-powered app aimed at promoting sustainable living by tracking and suggesting eco-friendly lifestyle choices. It's your personal guide to reducing carbon footprint effectively.
+
 # Eco-Tracks
 
 ![1](https://github.com/sharifulislamuppsala/Eco-Tracks/assets/162694734/02a4a078-b7fb-4901-af70-68df23fce115)
