@@ -1,4 +1,4 @@
-# Eco-tracks
+# Eco-Tracks
 ![1](https://github.com/sharifulislamuppsala/Eco_Track/assets/162694734/dd0c9049-59f2-40e3-8b4d-bd04b283f136)
 ## Background
 
